@@ -1,0 +1,12 @@
+{
+  "name": "new_portfolio_site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnmogi/angular_portfolio.git",
+  "author": "johnmogi <anguru@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "git": "git add --all && git commit -m",
+    "postgit": "git push"
+  }
+}
