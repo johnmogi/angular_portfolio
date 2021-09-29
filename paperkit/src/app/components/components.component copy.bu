@@ -8,11 +8,7 @@
       <div class="container">
         <div class="title-brand">
           <div class="angular-logo"></div>
-          <h1 class="presentation-title2">
-            גם אתר האנגולר שלכם
-            <br />
-            יכול להיראות ככה
-          </h1>
+          <h1 class="presentation-title">ברוכים הבאים לארת האנגולר הבא שלכם</h1>
           <div class="fog-low">
             <img src="assets/img/fog-low.png" alt="" />
           </div>
